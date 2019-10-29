@@ -7,5 +7,9 @@ public class Client {
 		System.out.println("Java is a object  oriented programing language");
 
 	}
+	
+	public void bfunctionality() {
+		System.out.println("Code for busines logic");
+	}
 
 }
